@@ -289,8 +289,10 @@ p {
 
 .how_card {
   padding: 30px 60px 30px 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #c3d1d5;
   border-radius: 20px;
-  box-shadow: 0 10px 32px 0 rgba(0, 84, 111, 0.1);
 }
 
 .how_con {
